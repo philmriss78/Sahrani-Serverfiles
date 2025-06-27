@@ -1,0 +1,92 @@
+{
+    "DebugLogs_enabled": 0,
+    "Active_Portals_Min": 2,
+    "Active_Portals_Max": 2,
+    "Portal_Creator": [
+        {
+            "Classname_Portal_Object": "land_teleporter",
+            "Portal_Position": [
+                4491.381836,
+				8.159559,
+				15414.123047
+            ],
+            "Portal_Orientation": [
+                60.210770,
+                0.0,
+                0.0
+            ],
+            "Trigger_Area_Min": [
+                -0.20000001192092898,
+                -1.0,
+                -0.20000001192092898
+            ],
+            "Trigger_Area_Max": [
+                0.20000001192092898,
+                1.0,
+                0.20000001192092898
+            ],
+            "Teleport_Destination": [
+                [
+                    333.331,
+					48.4018,
+					20127.8
+                ]
+            ]
+        },
+        {
+            "Classname_Portal_Object": "land_teleporter",
+            "Portal_Position": [
+                156.079758,
+				4.935462,
+				19900.140625
+            ],
+            "Portal_Orientation": [
+                -26.999878,
+                0.0,
+                0.0
+            ],
+            "Trigger_Area_Min": [
+                -0.20000001192092898,
+                -1.0,
+                -0.20000001192092898
+            ],
+            "Trigger_Area_Max": [
+                0.30000001192092898,
+                1.0,
+                0.30000001192092898
+            ],
+            "Teleport_Destination": [
+                [	
+					16194.6, 
+					255.159, 
+					11611.5
+                    
+                ],
+				[
+					15717.4, 
+					273.844, 
+					11311.5
+                ],
+				[
+					15829.9, 
+					263.071, 
+					11487
+                    
+                ],
+				[
+					16279.8, 
+					109.806,
+					11187.7
+                    
+                ]
+				,
+				[
+					17375.6, 
+					125.755,
+					11730.2
+                    
+                ]
+            ]
+        }
+    ]
+}
