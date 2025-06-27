@@ -9,4 +9,4 @@ The following files must be moved to your profile folder
 The following files must be moved to your missionfolder 
 -------> mpmissions\empty.sahrani
 
-!!!!!! please check if you have also copied the areaflags.map !!!!!
+!!!!!! please check if you have also copied the areaflags.map !!!!! CE Editor Sahrani !!!!!!!!
