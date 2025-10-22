@@ -7,7 +7,7 @@
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "1683 457 14219",
+            "triggerpos": "334.58 48.3618 20127.6",
             "triggermins": "-1 -0.2 -1",
             "triggermaxs": "1 1 1",
             "triggerradius": 0.0,
@@ -17,8 +17,28 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "1683 457 14219",
-                "1684 457 14218"
+                "431.421 7.84 20169.9",
+                "446.422 7.84 20155.7",
+                "485.605 7.84 20193.6",
+                "461.694 7.84 20145.5",
+                "485.484 7.84 20166.8",
+                "543.365 7.84 20182",
+                "519.611 7.84 20137",
+                "560.865 7.84 20125.3",
+                "515.728 7.84 20087.9",
+                "494.058 7.84 20098.7",
+                "493.011 7.84 20070.9",
+                "453.206 13.9787 20114.2",
+                "447.457 7.84 20086.1",
+                "441.17 7.84 20106.5",
+                "467.956 7.84 20108.5",
+                "467.163 7.84 20161.5",
+                "549.239 3.59008 20124.9",
+                "599.344 3.85045 20117.1",
+                "528.52 7.84 20110.1",
+                "444.499 7.88948 20128",
+                "380.875 31.7621 20127.6",
+                "535.303 7.84 20158.5"
             ],
             "spawnradius": 0.0,
             "bubakProps": {
@@ -26,47 +46,9 @@
                 "onlyfilluptobubaknum": 1,
                 "itemrandomdmg": 1,
                 "bubaci": [
-                    "ZmbM_ClerkFat_White",
-                    "ZmbM_SoldierNormal"
+                    "ZmbM_Mummy"
                 ],
-                "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
-                ]
-            }
-        },
-        {
-            "name": "trigger2",
-            "workinghours": "23-6",
-            "triggerdependency": [
-                ""
-            ],
-            "triggerpos": "1530 0 8",
-            "triggermins": "-1 -0.2 -1",
-            "triggermaxs": "1 1 1",
-            "triggerradius": 0.0,
-            "triggercylradius": 0.0,
-            "triggercylheight": 0.0,
-            "notification": "",
-            "notificationtime": 2,
-            "triggerdelay": 3600,
-            "spawnerpos": [
-                "1358 500 25",
-                "0 0 0"
-            ],
-            "spawnradius": 0.0,
-            "bubakProps": {
-                "bubaknum": 4,
-                "onlyfilluptobubaknum": 1,
-                "itemrandomdmg": 1,
-                "bubaci": [
-                    "ZmbM_ClerkFat_White",
-                    "ZmbM_SoldierNormal"
-                ],
-                "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
-                ]
+                "bubakinventory": []
             }
         }
     ]
