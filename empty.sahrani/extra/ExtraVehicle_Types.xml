@@ -147,10 +147,10 @@
     <tag name="floor"/>
   </type>
   <type name="Landrover_Red">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -279,10 +279,10 @@
     <tag name="floor"/>
   </type>
    <type name="Landrover_RACS">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -345,10 +345,10 @@
     <tag name="floor"/>
   </type>
     <type name="Landrover_RACS_Digi">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1169,3 +1169,4 @@
     </type>
 
 </types>
+
