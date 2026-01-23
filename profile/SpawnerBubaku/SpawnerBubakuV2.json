@@ -50,6 +50,35 @@
                 ],
                 "bubakinventory": []
             }
+        },
+        {
+            "name": "AlphaBear",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9247.5 133.861 15979.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9247.5 133.861 15979.4"
+            ],
+            "spawnradius": 10.0,
+            "bubakProps": {
+                "bubaknum": 1,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "AlphaBear"
+                ],
+                "bubakinventory": []
+            }
         }
     ]
 }
