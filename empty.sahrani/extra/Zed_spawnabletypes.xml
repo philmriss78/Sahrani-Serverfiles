@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="ZmbM_Mummy">
+		<cargo preset="ContaminatedCargo" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo preset="toolsMedic" />
+	</type>
+    <type name="ZmbM_ruSoldier_normal_Woodland1">
+        <cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+        <attachments preset="headsRU2" />
+        <attachments preset="vestsRU2" />
+    </type>
+    <type name="ZmbM_ruSoldier_normal_Woodland2">
+        <cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+        <attachments preset="headsRU2" />
+        <attachments preset="vestsRUCamo2" />
+    </type>
+    <type name="ZmbM_racSoldier_normal">
+        <cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+        <attachments preset="headsRACS" />
+        <attachments preset="vestsRACS" />
+    </type>
+	<type name="AmmoBox_black">
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+		<cargo chance="0.5"><item name="AmmoBox_SnowOwl_10Rnd" /></cargo>
+	</type>
+</spawnabletypes>

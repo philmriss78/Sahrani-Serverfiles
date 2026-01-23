@@ -1,0 +1,59 @@
+{
+    "DarknessLocations": [
+        {
+            "Name": "Bunker",
+            "DarkLight": "Dark",
+            "triggerpos": "329.811 48.4018 20128",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "Bunker Exit 1",
+            "DarkLight": "Light",
+            "triggerpos": "4620.2 28.7584 15696.5",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "Bunker Exit 2",
+            "DarkLight": "Light",
+            "triggerpos": "4591.38 33.0819 15712.3",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "Bunker Exit 3",
+            "DarkLight": "Light",
+            "triggerpos": "4549.64 53.6561 15805.2",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "Name": "Bunker Exit 4",
+            "DarkLight": "Light",
+            "triggerpos": "4521.68 48.2082 15813.4",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        }
+    ]
+}
