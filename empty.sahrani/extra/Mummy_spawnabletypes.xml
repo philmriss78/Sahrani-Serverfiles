@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<spawnabletypes>
-	<type name="ZmbM_Mummy">
-		<cargo preset="ContaminatedCargo" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<cargo preset="toolsMedic" />
-	</type>
-</spawnabletypes>
