@@ -7,43 +7,486 @@
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "334.58 48.3618 20127.6",
+            "triggerpos": "333.331 48.4018 20127.8",
             "triggermins": "-1 -0.2 -1",
             "triggermaxs": "1 1 1",
-            "triggerradius": 0.0,
-            "triggercylradius": 0.0,
-            "triggercylheight": 0.0,
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
             "notification": "",
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "431.421 7.84 20169.9",
-                "446.422 7.84 20155.7",
-                "485.605 7.84 20193.6",
-                "461.694 7.84 20145.5",
-                "485.484 7.84 20166.8",
-                "543.365 7.84 20182",
-                "519.611 7.84 20137",
-                "560.865 7.84 20125.3",
-                "515.728 7.84 20087.9",
-                "494.058 7.84 20098.7",
-                "493.011 7.84 20070.9",
-                "453.206 13.9787 20114.2",
-                "447.457 7.84 20086.1",
-                "441.17 7.84 20106.5",
-                "467.956 7.84 20108.5",
-                "467.163 7.84 20161.5",
-                "549.239 3.59008 20124.9",
-                "599.344 3.85045 20117.1",
-                "528.52 7.84 20110.1",
-                "444.499 7.88948 20128",
-                "380.875 31.7621 20127.6",
-                "535.303 7.84 20158.5"
+                "496.251 7.87069 20144.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": 20.0,
             "bubakProps": {
-                "bubaknum": 4,
-                "onlyfilluptobubaknum": 1,
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "446.422 7.84 20155.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "446.422 7.84 20155.7"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "720.787 3.62054 20182.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "742.971 3.61493 20153.1"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "718.317 3.61492 20194.6",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "643.517 3.61494 20199.6"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "644.395 3.61491 20303.2",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "612.844 3.61491 20304.5"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger6",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "578.846 3.61496 20356.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "455.632 3.61488 20334.1"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger7",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "420.446 3.60618 20287.6",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "337.291 3.61495 20317.7"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger8",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "282.115 3.61489 20316.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "240.533 3.61498 20292.3"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger9",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "316.179 3.61493 20301.1",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "299.628 3.61496 20315.3"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger10",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "237.745407 3.61489 20302.857422",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "251.762 3.61489 20237.5"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger11",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "237.76 3.60445 20181",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "247.657 3.61492 20125.3"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger12",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "237.233 3.61653 20058.1",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "239.814 3.61494 20003.2"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger13",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "199.57 3.63033 20033.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "137.242 3.61494 20037.5"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger14",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "155.906 3.61655 20080.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "158.74 3.61491 20143.2"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger15",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "155.906 3.61655 20080.3",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "156.495 3.6149 19955.5"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger16",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "197.125 55.6798 20009.6",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "210.668 62.661 20006.4"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Mummy"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger17",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "617.775 3.61495 20357",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "693.919 23.1908 20303.7"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 0,
                 "itemrandomdmg": 1,
                 "bubaci": [
                     "ZmbM_Mummy"
@@ -72,7 +515,7 @@
             "spawnradius": 10.0,
             "bubakProps": {
                 "bubaknum": 1,
-                "onlyfilluptobubaknum": 1,
+                "onlyfilluptobubaknum": 0,
                 "itemrandomdmg": 1,
                 "bubaci": [
                     "AlphaBear"
