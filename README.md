@@ -12,3 +12,12 @@ The following files must be moved to your missionfolder
 -------> mpmissions\empty.sahrani
 
 !!!!!! please check if you have also copied the areaflags.map !!!!! CE Editor Sahrani !!!!!!!!
+
+
+THE FOLLOWING BUILDING MAY NOT BE PLACED VIA DAYZ EDITOR 
+
+Land_Bunker1_Left
+
+Land_Train_Wagon_Box
+
+If you use the expansion, please deactivate the Landrover in the event
