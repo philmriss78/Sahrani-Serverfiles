@@ -35,6 +35,9 @@ SpawnObject("Misc_TirePile_Burning_DE", "531.779663 7.839998 20137.742188", "0.0
 SpawnObject("Misc_TirePile_Burning_DE", "454.762115 7.839998 20121.181641", "0.000000 -0.000000 -0.000000", 1);
 SpawnObject("Misc_TirePile_Burning_DE", "658.565430 4.660977 20164.167969", "0.000000 -0.000000 -0.000000", 1);
 SpawnObject("Bonfire", "626.695557 4.588607 20054.648438", "0.000000 -0.000000 -0.000000", 1);
+//Sakhalbunker Fix 1.29
+SpawnObject("StaticObj_Wall_IndCncH_10", "18248.253906 18.676001 3019.425293", "-1.000000 0.000000 -90.000000", 0.96);
+SpawnObject("StaticObj_Wall_IndCncH_10", "18248.488281 19.421984 3002.709717", "-1.000000 0.000000 -90.000000", 0.96);
 	//GetCEApi().ExportProxyData(Vector(10240, GetGame().SurfaceY(10240, 10240), 10240), 20480);  //Center of map, radius of how far to go out and find buildings.
 	//GetCEApi().ExportProxyProto();
 	//GetCEApi().ListCloseProxy(1024);
