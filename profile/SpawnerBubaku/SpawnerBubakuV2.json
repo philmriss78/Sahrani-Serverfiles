@@ -495,6 +495,296 @@
             }
         },
         {
+            "name": "Oilrig1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9892.33 1.26097 18567",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9819.01 2.12372 18554"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9853.14 1.74614 18527.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9828.78 1.90532 18505"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9714.95 2.89283 18555.5",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9706.51 1.68588 18517.7"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9731.96 1.68587 18517.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9767.08 1.36429 18516.9"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9688.02 8.54853 18494.5",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9674.1 6.70345 18489.8"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig6",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9687.98 8.54853 18407.1",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9675.07 6.70345 18407.4"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig7",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9642.56 8.54853 18407",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9613.45 8.52835 18396.6"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 15,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig8",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9642.53 8.54853 18494.5",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9615.89 8.52835 18504"
+            ],
+            "spawnradius": 5.0,
+            "bubakProps": {
+                "bubaknum": 15,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig9",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9625 8.6371 18520.8",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9617.74 8.63708 18557.8"
+            ],
+            "spawnradius": 10.0,
+            "bubakProps": {
+                "bubaknum": 15,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "Oilrig10",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "9618.3 5.8212 18634.8",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 10.0,
+            "triggercylradius": 10.0,
+            "triggercylheight": 10.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9619.81 8.6371 18594.4"
+            ],
+            "spawnradius": 10.0,
+            "bubakProps": {
+                "bubaknum": 15,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_Oil_rig_worker"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
             "name": "AlphaBear",
             "workinghours": "0-24",
             "triggerdependency": [
