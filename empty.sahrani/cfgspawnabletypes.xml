@@ -3890,55 +3890,109 @@
             <item name="ReflexOptic" chance="0.30" />
         </attachments>
     </type>
-	<!-- 1.29 -->
-    <type name="WinterMilitaryCoat_Brown">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="WinterMilitaryCoat_Grey">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="WinterMilitaryCoat_DarkGrey">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="MilitarySweater_Livonia">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="MilitarySweater_Chernarus">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="MilitarySweater_NoPatch">
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="PilotJacket_Brown">
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="PilotJacket_Black">
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="PilotJacket_Yellow">
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="ZmbM_Mummy">
-        <cargo chance="0.5">
-            <item name="HumanSteakMeat" chance="1.0" />
-        </cargo>
-        <cargo chance="0.5">
-            <item name="BandageDressing" chance="0.5" />
-            <item name="Rag" chance="0.5" />
-        </cargo>
-        <cargo chance="0.5">
-            <item name="IodineTincture" chance="0.33" />
-            <item name="Epinephrine" chance="0.33" />
-            <item name="Morphine" chance="0.33" />
-        </cargo>
-        <cargo chance="0.5">
-            <item name="CharcoalTablets" chance="0.25" />
-            <item name="PainkillerTablets" chance="0.25" />
-            <item name="TetracyclineAntibiotics" chance="0.25" />
-            <item name="VitaminBottle" chance="0.25" />
-        </cargo>
-    </type>	
+		<type name="PlateCarrierVest_Desert">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.25">
+			<item name="PlateCarrierHolster_Desert" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="PlateCarrierPouches_Desert" chance="1.00" />
+		</attachments>
+	</type>
 	
+	<type name="SCARH">
+		<damage min="0.45" max="0.85" />
+		<attachments chance="1.00">
+			<item name="SCAR_PrecisionBttstck" chance="0.50" />
+			<item name="SCAR_StockBttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="0.33">
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_SCARH_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SCARH_Black">
+		<damage min="0.45" max="0.85" />
+		<attachments chance="1.00">
+			<item name="SCAR_PrecisionBttstck_Black" chance="0.50" />
+			<item name="SCAR_StockBttstck_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.33">
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic_Black" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_SCARH_20Rnd_Black" chance="1.00" />
+		</attachments>
+	</type>
+	
+	<type name="ZmbF_usSoldier_normal_Desert">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<cargo chance="1.0">
+			<item name="MorsecodeLeaflet_blood" chance="0.33" />
+			<item name="MorsecodeLeaflet_fire" chance="0.33" />
+			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Mag_SCARH_20Rnd" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_usSoldier_normal_Woodland">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+		<cargo chance="1.0">
+			<item name="MorsecodeLeaflet_blood" chance="0.33" />
+			<item name="MorsecodeLeaflet_fire" chance="0.33" />
+			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Mag_SCARH_20Rnd" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_usSoldier_Heavy_Desert">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<cargo chance="1.0">
+			<item name="MorsecodeLeaflet_blood" chance="0.33" />
+			<item name="MorsecodeLeaflet_fire" chance="0.33" />
+			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Mag_SCARH_20Rnd" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_usSoldier_Heavy_Woodland">
+		<cargo preset="foodArmy" />		
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<cargo chance="1.0">
+			<item name="MorsecodeLeaflet_blood" chance="0.33" />
+			<item name="MorsecodeLeaflet_fire" chance="0.33" />
+			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Mag_SCARH_20Rnd" chance="1.0" />
+		</cargo>
+	</type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">

@@ -742,5 +742,10 @@
 	<attachments chance="0.95" name="vestsRUCamo2">
 		<item name="SmershVest" chance="0.75" />
 		<item name="PlateCarrierVest_Camo" chance="0.25" />
-	</attachments>		
+	</attachments>
+		<!--OilRig		ATTACHMENTS-->
+		<attachments chance="0.30" name="OilRig">
+				<item name="CGS_Jacket" chance="1.00" />
+				<item name="ConstructionHelmet_Oilrig" chance="1.00" />
+		</attachments>	
 </randompresets>

@@ -688,7 +688,6 @@
 		<pos x="11529.6"  z="15381.4" a="0"/>
 		<pos x="11720.6"  z="15525.6" a="22.7334"/>
 		<pos x="4952.23"  z="15007" a="-46.4852"/>
-		<pos x="9557.66"  z="3483.71" a="0"/>
 		<pos x="2502.98"  z="2833.78" a="0"/>
 		<pos x="3175.9"  z="2314.01" a="0"/>
 		<pos x="3306.31"  z="3485.74" a="0"/>
@@ -1193,7 +1192,33 @@
 		<pos x="9648.06" y="17.9608" z="18388.8" a="0" group="Barel_Schnell"/>
 		<pos x="9638.64" y="9.10637" z="18345.9" a="0" group="Barel_Schnell"/>
   </event>
--->
+  -->
+ <event name="Static_wreck_spyaircraft">
+        <zone smin="2" smax="3" dmin="2" dmax="3" r="30" />
+		<pos x="9862.19" z="9851.2" a="-0.578359"/>
+		<pos x="9870.69" z="10134.2" a="-1.03263"/>
+		<pos x="10323.5" z="9909.87" a="1.11861"/> 
+		<pos x="10660.2" z="9977.25" a="0.286961"/> 
+		<pos x="9580.78" z="10136.4" a="-0.0403346"/> 
+		<pos x="10883.5" z="9919.44" a="1.06652"/> 
+		<pos x="9282.69" z="10136.4" a="-0.00722309"/> 
+		<pos x="11008" z="9945.77" a="-3.81343"/> 
+		<pos x="9485.54" z="9856.94" a="-0.438299"/> 
+		<pos x="9490.09" z="9705.64" a="-1.4217"/> 
+		<pos x="11972.8" z="15440.4" a="0"/>
+		<pos x="12616.9" z="15045.6" a="0"/>
+		<pos x="14209.8" z="11770.4" a="0"/>
+		<pos x="8045.31" z="17153.1" a="0"/>
+		<pos x="2504.95" z="2749.41" a="0"/>
+		<pos x="4452.63" z="15608.5" a="0"/>
+		<pos x="13308.9" z="8929.39" a="0"/>
+		<pos x="18183.5" z="18048.7" a="0"/>
+		<pos x="19123.9" z="14085.3" a="0"/>
+		<pos x="18024.3" z="18823.1" a="0"/>
+		<pos x="11880.6" z="15374.3" a="0"/>
+		<pos x="17379.5" z="19397.3" a="0"/>
+		<pos x="16873.2" z="19678.7" a="0"/>
+    </event>
 	<event name="AmbientFox" />
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
@@ -1207,6 +1232,7 @@
     <event name="InfectedFirefighterSouth" />
 	<event name="InfectedFirefighterNorth" />
     <event name="InfectedPrisoner" />
+    <event name="InfectedOilRigWorker" />
     <event name="AnimalDeer" />
     <event name="AnimalCow" />
     <event name="AnimalSheep" />

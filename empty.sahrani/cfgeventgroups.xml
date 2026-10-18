@@ -9,4 +9,26 @@
     <child type="ScientificBriefcaseKeys" spawnsecondary="false" x="0.0" z="0.8" a="180" />
   </group>	
 -->
+	<group name="Shelter_Leather">
+		<child type="Static_Shelter_Leather_DE" deloot="0" lootmax="3" lootmin="1" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+<!--		<child type="StaticObj_Furniture_matress_white" deloot="0" lootmax="3" lootmin="1" x="0.4482" z="-0.1377" y="-0.0000" a="358"/>
+		<child type="StaticObj_Misc_WoodTable_Outdoor" deloot="0" lootmax="3" lootmin="1" x="0.5723" z="4.5098" y="0.4876" a="287"/>
+		<child type="CampFire" deloot="0" lootmax="3" lootmin="1" x="0.1387" z="1.8965" y="-0.0000" a="0"/>
+		<child type="barrel_schnell_static" deloot="0" lootmax="3" lootmin="1" x="1.4189" z="1.9736" y="0.5780" a="0"/>
+		<child type="StaticObj_Misc_WoodPile2" deloot="0" lootmax="3" lootmin="1" x="-2.1875" z="2.9502" y="0.3128" a="39"/>
+		<child type="StaticObj_Furniture_canister_DZ" deloot="0" lootmax="3" lootmin="1" x="-0.3477" z="-0.7725" y="0.3643" a="0"/>
+		<child type="Land_body_norope" deloot="0" lootmax="3" lootmin="1" x="-0.8818" z="0.9990" y="0.8285" a="205"/>
+		-->
+	</group>
+	<group name="Shelter_Stick">
+		<child type="Static_Shelter_Stick_DE" deloot="0" lootmax="3" lootmin="1" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+<!--		<child type="StaticObj_Furniture_matress_white" deloot="0" lootmax="3" lootmin="1" x="0.4482" z="-0.1377" y="-0.0000" a="358"/>
+		<child type="StaticObj_Misc_WoodTable_Outdoor" deloot="0" lootmax="3" lootmin="1" x="0.5723" z="4.5098" y="0.4876" a="287"/>
+		<child type="CampFire" deloot="0" lootmax="3" lootmin="1" x="0.1387" z="1.8965" y="-0.0000" a="0"/>
+		<child type="barrel_schnell_static" deloot="0" lootmax="3" lootmin="1" x="1.4189" z="1.9736" y="0.5780" a="0"/>
+		<child type="StaticObj_Misc_WoodPile2" deloot="0" lootmax="3" lootmin="1" x="-2.1875" z="2.9502" y="0.3128" a="39"/>
+		<child type="StaticObj_Furniture_canister_DZ" deloot="0" lootmax="3" lootmin="1" x="-0.3477" z="-0.7725" y="0.3643" a="0"/>
+		<child type="Land_body_norope" deloot="0" lootmax="3" lootmin="1" x="-0.8818" z="0.9990" y="0.8285" a="205"/>
+		-->
+	</group>	
 </eventgroupdef>

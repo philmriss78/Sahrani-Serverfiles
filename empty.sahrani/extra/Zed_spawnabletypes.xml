@@ -6,6 +6,12 @@
 		<cargo preset="ammoArmy" />
 		<cargo preset="toolsMedic" />
 	</type>
+	<type name="ZmbM_Oil_rig_worker">
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsIndustrial" />
+		<attachments preset="headtorches" />
+		<attachments preset="OilRig" />
+	</type>	
     <type name="ZmbM_ruSoldier_normal_Woodland1">
         <cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />

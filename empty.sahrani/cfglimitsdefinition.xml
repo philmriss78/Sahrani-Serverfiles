@@ -41,6 +41,7 @@
 		<usage name="NBC"/>
 		<usage name="JMC" />
 		<usage name="ExplosiveAmmoBox" />
+		<usage name="UAZ" />
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

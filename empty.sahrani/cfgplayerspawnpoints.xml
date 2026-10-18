@@ -19,6 +19,7 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <generator_posbubbles>
+		<pos x="9133.46"  z="3401.43"/>
 		<pos x="11443.1"  z="5347.8"/>
 		<pos x="11342.5"  z="5282.65"/>
 		<pos x="11278.4"  z="5138.76"/>

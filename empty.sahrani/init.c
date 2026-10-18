@@ -31,14 +31,16 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 // Created Objects
-SpawnObject("Misc_TirePile_Burning_DE", "531.779663 7.839998 20137.742188", "0.000000 -0.000000 -0.000000", 1);
-SpawnObject("Misc_TirePile_Burning_DE", "454.762115 7.839998 20121.181641", "0.000000 -0.000000 -0.000000", 1);
-SpawnObject("Misc_TirePile_Burning_DE", "658.565430 4.660977 20164.167969", "0.000000 -0.000000 -0.000000", 1);
-SpawnObject("Bonfire", "626.695557 4.588607 20054.648438", "0.000000 -0.000000 -0.000000", 1);
-//Sakhalbunker Fix 1.29
-SpawnObject("StaticObj_Wall_IndCncH_10", "18248.253906 18.676001 3019.425293", "-1.000000 0.000000 -90.000000", 0.96);
-SpawnObject("StaticObj_Wall_IndCncH_10", "18248.488281 19.421984 3002.709717", "-1.000000 0.000000 -90.000000", 0.96);
-	//GetCEApi().ExportProxyData(Vector(10240, GetGame().SurfaceY(10240, 10240), 10240), 20480);  //Center of map, radius of how far to go out and find buildings.
+SpawnObject("CampFire", "13922.784180 29.593058 9150.730469", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "9884.310547 140.234894 9964.500000", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "16526.396484 12.484776 9302.926758", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "8153.611328 50.254101 16969.861328", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "16007.250977 263.300385 11399.887695", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "682.046692 3.778497 20158.195313", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "13361.976563 26.231895 11367.671875", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "624.099854 1.906037 20055.378906", "0.000000 0.000000 -0.000000", 1);
+SpawnObject("CampFire", "12912.499023 110.220085 11663.029297", "0.000000 0.000000 -0.000000", 1);
+//GetCEApi().ExportProxyData(Vector(10240, GetGame().SurfaceY(10240, 10240), 10240), 20480);  //Center of map, radius of how far to go out and find buildings.
 	//GetCEApi().ExportProxyProto();
 	//GetCEApi().ListCloseProxy(1024);
 	//GetCEApi().ExportClusterData();
