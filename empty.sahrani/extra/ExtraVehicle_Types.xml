@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-<!--
    <type name="Landrover">
     <nominal>0</nominal>
     <lifetime>3888000</lifetime>
@@ -649,6 +648,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
+<!--
 	<type name="Kamaz_doors_Driver_Civilian">
         <nominal>2</nominal>
         <lifetime>2700</lifetime>
@@ -675,6 +675,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
+-->	
 	<type name="Kamaz_doors_Driver_Civilian_2">
         <nominal>2</nominal>
         <lifetime>2700</lifetime>
@@ -701,6 +702,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
+<!--
 	<type name="Kamaz_doors_Driver_Civilian_3">
         <nominal>2</nominal>
         <lifetime>2700</lifetime>
@@ -857,7 +859,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-
+-->
 	<type name="Kamaz_doors_Driver_Civilian_2_Fuel">
         <nominal>2</nominal>
         <lifetime>2700</lifetime>
@@ -1112,6 +1114,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+-->
 	<type name="Kamaz_Refuel_Civilian_2">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1122,6 +1125,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+<!--
 	<type name="Kamaz_Refuel_Civilian_3">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1152,6 +1156,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+-->
 	<type name="Kamaz_Cargo_Military">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1162,5 +1167,4 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
--->	
 </types>

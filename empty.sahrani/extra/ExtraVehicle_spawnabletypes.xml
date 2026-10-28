@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
-<!--
 		<type name="Landrover">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.30" />
@@ -435,6 +434,7 @@
 			<item name="Kamaz_Doors_coDriver_Military" chance="1.00" />
 		</attachments>
 	</type>
+<!--
 	<type name="Kamaz_Civilian">
 		<attachments chance="1.0">
 		<item name="Kamaz_Wheel" chance="1.00" />
@@ -1337,6 +1337,7 @@
 			<item name="Kamaz_Doors_coDriver_Civilian" chance="1.00" />
 		</attachments>
 	</type>
+-->
 		<type name="Kamaz_Refuel_Civilian_2">
 		<attachments chance="1.0">
 		<item name="Kamaz_Wheel" chance="0.80" />
@@ -1461,6 +1462,7 @@
 			<item name="Kamaz_Doors_coDriver_Civilian_4" chance="1.00" />
 		</attachments>
 	</type>	
+-->
 		<type name="Kamaz_Cargo_Military">
 		<attachments chance="1.0">
 		<item name="Kamaz_Wheel" chance="0.80" />

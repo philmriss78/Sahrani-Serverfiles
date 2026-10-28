@@ -320,7 +320,7 @@
     </type>	
     <type name="Boat_Sahrani_Sand">
         <nominal>0</nominal>
-        <lifetime>1802</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

@@ -847,6 +847,7 @@
 			<child lootmax="8" lootmin="6" max="3" min="1" type="Land_wreck_hc3_merlin_president"/>
 			<child lootmax="8" lootmin="6" max="3" min="1" type="Land_wreck_hc3_merlin_vrana"/>
 			<child lootmax="8" lootmin="6" max="3" min="1" type="Land_wreck_hc3_merlin_wave"/>
+		    <child lootmax="8" lootmin="6" max="3" min="1" type="StaticObj_Wreck_Chinook_DE"/>
 		</children>
 	</event>
 	<event name="StaticPoliceCarNorth">
@@ -1176,9 +1177,9 @@
 		</children>
 	</event>
 	<event name="VehicleOffroad02">
-		<nominal>1</nominal>
-		<min>1</min>
-		<max>1</max>
+		<nominal>5</nominal>
+		<min>2</min>
+		<max>4</max>
 		<lifetime>300</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -1189,7 +1190,8 @@
 		<limit>mixed</limit>
 		<active>1</active>
 		<children>
-			<child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Offroad_02"/>
+		    <child lootmax="0" lootmin="0" max="2" min="1" type="Offroad_02_Beige"/>
 		</children>
 	</event>
     <event name="VehicleLandrover">
@@ -1354,8 +1356,8 @@
         </children>
     </event>
 	<event name="StaticContainerLocked">
-        <nominal>12</nominal>
-        <min>8</min>
+        <nominal>5</nominal>
+        <min>3</min>
         <max>0</max>
         <lifetime>2400</lifetime>
         <restock>0</restock>
@@ -1366,14 +1368,16 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
+            <child lootmax="8" lootmin="4" max="10" min="10" type="Land_Mil_ContainerHabitat_Armory_Locked_Green_DE"/>
+	<!--			
             <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Blue_DE"/>
             <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Yellow_DE"/>
-	<!--			
+			
 			<child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Orange_DE"/>
             <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Red_DE"/>
-	-->
+			-->
         </children>
     </event>
 	<event name="TrajectoryAmanita">
@@ -1516,6 +1520,142 @@
 			<child lootmax="4" lootmin="3" max="4" min="4" type="Land_wreck_spyaircraft_DE"/>
 		</children>
 	</event>
+<!-- 1.30	Start-->
+  <event name="AmbientLizard">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>30</max>
+        <lifetime>33</lifetime>
+        <restock>25</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>150</distanceradius>
+        <cleanupradius>250</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="1" min="1" type="Animal_VaranusGriseus"/>
+        </children>
+    </event>
+    <event name="AmbientTest">
+        <nominal>10</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>5</lifetime>
+        <restock>0</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>10</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>parent</limit>
+        <active>0</active>
+        <children/>
+    </event>
+    <event name="AnimalDog">
+        <nominal>8</nominal>
+        <min>1</min>
+        <max>3</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_Dobermann_Bald"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_Dobermann_Bloody"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_Dobermann_Brown"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_Dobermann_Skinny"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_Dobermann_Vest"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_GermanShepherd_Balding"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_GermanShepherd_Bloody"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_GermanShepherd_Harness"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CanisFamiliaris_GermanShepherd_Skinny"/>
+        </children>
+    </event>
+    <event name="AnimalMouflon">
+        <nominal>12</nominal>
+        <min>1</min>
+        <max>2</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_OvisGmelini"/>
+        </children>
+    </event>
+    <event name="ItemBricks">
+        <nominal>40</nominal>
+        <min>40</min>
+        <max>40</max>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <saferadius>250</saferadius>
+        <distanceradius>20</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="50" min="30" type="PileOfBricks"/>
+        </children>
+    </event>
+     <event name="StaticWaterTruck">
+        <nominal>30</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>2100</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>200</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <secondary>InfectedIndustrial</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="2" lootmin="2" max="50" min="35" type="Land_Wreck_Truck01_Aban1_Cistern_DE"/>
+            <child lootmax="2" lootmin="2" max="50" min="35" type="Land_Wreck_Truck01_Aban2_Cistern_DE"/>
+        </children>
+    </event>
+<event name="VehicleMotorbike">
+        <nominal>25</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Blue"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Red"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Yellow"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Blue"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Green"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Red"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Yellow"/>
+        </children>
+    </event>
 </events>
 
 
