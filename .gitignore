@@ -1,0 +1,9 @@
+# Einzelne Log-Dateien oder Backups
+*.log
+*.bak
+*.tmp
+*.map
+
+# Ganze Ordner, die das Tool lokal anlegt
+/storage/
+.cache/
